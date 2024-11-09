@@ -1,0 +1,15 @@
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\bin\Debug\net8.0\CP3.Application.deps.json
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\bin\Debug\net8.0\CP3.Application.dll
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\bin\Debug\net8.0\CP3.Application.pdb
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\bin\Debug\net8.0\CP3.Domain.dll
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\bin\Debug\net8.0\CP3.Domain.pdb
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\obj\Debug\net8.0\CP3.Application.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\obj\Debug\net8.0\CP3.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\obj\Debug\net8.0\CP3.Application.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\obj\Debug\net8.0\CP3.Application.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\obj\Debug\net8.0\CP3.Application.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\obj\Debug\net8.0\CP3.Appl.80E3A2A3.Up2Date
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\obj\Debug\net8.0\CP3.Application.dll
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\obj\Debug\net8.0\refint\CP3.Application.dll
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\obj\Debug\net8.0\CP3.Application.pdb
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Application\obj\Debug\net8.0\ref\CP3.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\bin\Debug\net8.0\CP3.Domain.deps.json
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\bin\Debug\net8.0\CP3.Domain.dll
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\bin\Debug\net8.0\CP3.Domain.pdb
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\obj\Debug\net8.0\CP3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\obj\Debug\net8.0\CP3.Domain.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\obj\Debug\net8.0\CP3.Domain.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\obj\Debug\net8.0\CP3.Domain.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\obj\Debug\net8.0\CP3.Domain.dll
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\obj\Debug\net8.0\refint\CP3.Domain.dll
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\obj\Debug\net8.0\CP3.Domain.pdb
+C:\Users\labsfiap\Desktop\CP3-dotnet-master\CP3.Domain\obj\Debug\net8.0\ref\CP3.Domain.dll
